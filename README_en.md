@@ -2,7 +2,7 @@
 
 ![](README/tanaguru.png)
 
-[Clique ici pour lire la version en français](/README.md)
+[Cliquer ici pour lire la version en français](/README.md)
 
 Web accessibility evaluation tool (and more).
 
